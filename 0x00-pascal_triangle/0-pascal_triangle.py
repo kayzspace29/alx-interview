@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Pascal Triangle Interview Challenge for Alx project conducted by Dr Marcus"""
+"""Pascal Triangle Interview Challenge for Alx project conducted by KELLZ OTERI"""
 
 
 def pascal_triangle(n):
